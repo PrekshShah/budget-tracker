@@ -73,4 +73,4 @@ budget-tracker/
 
 ## Author
 
-Built by [Your Name] — Informatics & Managerial Economics, UMass Amherst
+Built by Preksh Shah — Informatics & Managerial Economics, UMass Amherst
